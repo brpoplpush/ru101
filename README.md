@@ -25,5 +25,7 @@ b'world'
 $ redis-cli -p 6389
 127.0.0.1:6389> dbsize
 (integer) 14328
+$ source project.sh
 ```
+
 
